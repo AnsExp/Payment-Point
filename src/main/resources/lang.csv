@@ -1,0 +1,54 @@
+ID_LANG,Expañol,English
+amount,Monto,Amount
+amount-extra,Monto Extra,Amount Extra
+amount-paid,Monto Pagado,Amount Paid
+amount-total,Monto Total,Amount Total
+balances,Balances,Balances
+debit,Débito,Debit
+cancel,Cancelar,Cancel
+client,Cliente,Client
+clients,Clientes,Clients
+contract,Contrato,Contract
+contracts,Contratos,Contracts
+credit,Crédito,Credit
+date-end,Fecha Fin,Date End
+date-mandatory,Fecha Obligatoria,Date Mandatory
+date-payment,Fecha Pago,Date Payment
+date-start,Fecha Inicio,Date Start
+delete,Eliminar,Delete
+error-format,Error de Formato,Error Format
+export,Exportar,Export
+extra,Extra,Extra
+extras,Extras,Extras
+form,Formulario,Form
+id-card,Cédula,ID Card
+insert,Ingresar,Insert
+lastname,Apellido,Lastname
+method,Método,Method
+name,Nombre,Name
+observation,Observación,Observation
+payment,Pago,Payment
+payments,Pagos,Payments
+phone,Teléfono,Phone
+plan,Plan,Plan
+plans,Planes,Plans
+sanction,Sanción,Sanction
+select,Seleccionar,Select
+state,Estado,State
+steps,Pasos,Steps
+submit,Enviar,Submit
+tax,Interés,Tax
+viewer,Visor,Viewer
+update,Actualizar,Update
+CASH,Efectivo,Cash
+COMPLETED,Completado,Completed
+DEPRECATED,Obsoleto,Deprecated
+ENABLED,Habilitado,Enabled
+EXTRA,Extra,Extra
+LATE,Atrasado,Late
+ON_COURSE,En Curso,On Course
+ON_TIME,A Tiempo,On Time
+OTHER,Otro,Other
+PENDING,Pendiente,Pending
+TRANSFER,Transferencia,Transfer
+SANCTION,Sanción,Sanction

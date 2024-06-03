@@ -1,0 +1,12 @@
+{
+  "theme-system": "com.formdev.flatlaf.themes.FlatMacLightLaf",
+  "extended-state-screen": 0,
+  "width-size-frame": 753,
+  "height-size-frame": 495,
+  "location-horizontal-frame": 503,
+  "location-vertical-frame": 300,
+  "min-width-size-frame": 500,
+  "min-height-size-frame": 400,
+  "language-system": 1,
+  "always-on-top": false
+}
